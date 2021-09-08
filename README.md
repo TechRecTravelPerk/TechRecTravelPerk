@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TechRecTravelPerk
+- 👀 I’m interested meeting product focused, tech agnostic problem solvers
+- 🌱 I’m currently learning how to engage the development community more organicly
+- 💞️ I’m looking to collaborate on building TravelPerk to be the #1 platform for business travel
+- 📫 How to reach me alexander.ludwick@travelperk.com 
